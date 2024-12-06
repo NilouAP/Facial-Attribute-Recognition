@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ## Dataset
 You can download the aligned version of Celeba dataset from [here](https://drive.google.com/file/d/1uGU4MBlsGJlSVA0CYDBJOY9TTfPfJhAD/view?usp=sharing). 
 
+
 ## Usage
 ### Training a Model
 Use the 'main.py' script. Here's an example of how to run the training process:
