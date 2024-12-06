@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
+
 You can download the aligned version of Celeba dataset from [here](https://drive.google.com/file/d/1uGU4MBlsGJlSVA0CYDBJOY9TTfPfJhAD/view?usp=sharing). 
 
 The train, validation, and test text splits of CelebA, along with the corresponding attribute labels, are available [here](https://drive.google.com/drive/folders/1H6BzFY7rBcBTx9CvHOAR1_Y9oSK8NR2Y?usp=sharing).
