@@ -35,7 +35,10 @@ The train, validation, and test text splits of CelebA, along with the correspond
 
 ## Usage
 ### Training a Model
-Use the 'main.py' script. Here's an example of how to run the training process:
+
+First, download the pre-trained ResNet-50 model trained on VGGFace from [here](https://drive.google.com/file/d/1ssCWtfOLdFCdSCSEUUlImkx_9fhvbpnn/view?usp=sharing).
+
+Then, use the 'main.py' script to train the multi-head network. Here's an example of how to run the training process:
 ```
 python main.py --data ./dataset/Celeba \
     --epochs 10 --batch_size 1500 --learning_rate 0.05 \
